@@ -12,8 +12,8 @@ module.exports = (env) => {
         },
         output: {
             filename: '[name].js',
-            path: path.resolve(`./${env.path || 'cashier/'}/js`),
-            publicPath: `/${env.path || 'cashier/'}/js/`,
+            path: path.resolve(`./${env.path || 'casino_log/'}/js`),
+            publicPath: `/${env.path || 'casino_log/'}/js/`,
             chunkFilename: '[name].bundle.js',
         },
         plugins: [

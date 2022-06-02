@@ -69,7 +69,6 @@
 		}
 		
 		$controllerName = ucfirst($controller).'Controller';
-
 		$dispatch = new $controllerName($controller,$action);
 		
 		if ((int)method_exists($controllerName, $action))

@@ -7,7 +7,7 @@ define('TEMPKEYURL',$tempurlkey);
 
 define ('SERVER_PROTOCOL', (isset($_SERVER['HTTPS']) ? 'https' : 'http'));
 
-$base_separator = !LOCAL ? '/' : '';
+$base_separator = '';
 
 define('SERVER_BASE_PATH', $_SERVER['DOCUMENT_ROOT'] . $base_separator . $tempurlkey);
 
@@ -19,16 +19,16 @@ define('SUBFOLDER', $subFolder);
 define('BASEPATH', SERVER_BASE_PATH.'/');
 //define('BASEPATH', SERVER_BASE_PATH.$subFolder.'/');
 
-define ('SERVER_BASE_URL', '//'.SERVER_NAME.(isset($_SERVER["SERVER_PORT"]) && !($_SERVER["SERVER_PORT"] == '808' || $_SERVER["SERVER_PORT"] == '443') ? '' : '')); //.'/'.$tempurlkey
+define ('SERVER_BASE_URL', '//'.SERVER_NAME); //.'/'.$tempurlkey
 
-define ('SERVER_BASE_URL_FULL', SERVER_PROTOCOL . '://'.SERVER_NAME.(isset($_SERVER["SERVER_PORT"]) && !($_SERVER["SERVER_PORT"] == '808' || $_SERVER["SERVER_PORT"] == '443') ? ':'.$_SERVER["SERVER_PORT"] : '').'/'.$tempurlkey);
+define ('SERVER_BASE_URL_FULL', SERVER_PROTOCOL . '://'.SERVER_NAME.'/'.$tempurlkey);
 
-define ('SERVER_SECURE_BASE_URL', SERVER_PROTOCOL . '://'.SERVER_NAME.(isset($_SERVER["SERVER_PORT"]) && !($_SERVER["SERVER_PORT"] == '808' || $_SERVER["SERVER_PORT"] == '443') ? ':'.$_SERVER["SERVER_PORT"] : '').'/'.$tempurlkey);
+define ('SERVER_SECURE_BASE_URL', SERVER_PROTOCOL . '://'.SERVER_NAME.'/'.$tempurlkey);
 
 define('IMG', SERVER_BASE_URL_FULL."img/");
 define('IMG_UPLOAD', SERVER_BASE_URL_FULL."uploads/");
 
-define('SITE_REACT_RES_URL', SERVER_BASE_URL."/casino_log/cashier/");
+define('SITE_REACT_RES_URL', SERVER_BASE_URL."/casino_log/");
 //define('SITE_REACT_RES_URL', SERVER_BASE_URL);
 
 define('VIEWPATH', BASEPATH.'application/views/');

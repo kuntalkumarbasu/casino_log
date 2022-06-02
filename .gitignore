@@ -1,0 +1,11 @@
+/assets/server-config/
+/docs/
+*.jpg
+*.gif
+*.png
+*.ico
+*.db
+
+/js/
+/node_modules/
+/casino_log/

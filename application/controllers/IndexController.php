@@ -11,17 +11,16 @@ class IndexController extends Controller {
 
 
 	function index() {
-		
+
 		if(isset($_SESSION['username'])){
-			header("Location: ".SERVER_BASE_URL_FULL.'search');
+			header("Location: ".SERVER_BASE_URL_FULL.'?url=index/search');
 			exit;
 		}
 			
 	}
 
 	
-	function login() {
-		
+	function login() { 
 		$this->render = 0;
 		$inputParam = json_decode(file_get_contents('php://input'), true);
 

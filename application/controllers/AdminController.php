@@ -12,7 +12,7 @@ class AdminController extends Controller {
 
 	function index() {
 		if(isset($_SESSION['admin_username'])){
-			header("Location: ".SERVER_BASE_URL_FULL.'admin/adminprofile');
+			header("Location: ".SERVER_BASE_URL_FULL.'?url=admin/adminprofile');
 			exit;
 		}
 	}
@@ -21,7 +21,7 @@ class AdminController extends Controller {
 	function adminprofile() {
 		
 		if(!isset($_SESSION['admin_username'])){
-			header("Location: ".SERVER_BASE_URL_FULL.'admin');
+			header("Location: ".SERVER_BASE_URL_FULL.'?url=admin');
 			exit;
 		}
 
@@ -36,7 +36,7 @@ class AdminController extends Controller {
 		$response = array();
 
 		if(!isset($_SESSION['admin_username'])){
-			header("Location: ".SERVER_BASE_URL_FULL.'admin');
+			header("Location: ".SERVER_BASE_URL_FULL.'?url=admin');
 			exit;
 		}
 
@@ -64,7 +64,7 @@ class AdminController extends Controller {
 		$this->render = 0;
 
 		if(!isset($_SESSION['admin_username'])){
-			header("Location: ".SERVER_BASE_URL_FULL.'admin');
+			header("Location: ".SERVER_BASE_URL_FULL.'?url=admin');
 			exit;
 		}
 
@@ -92,7 +92,7 @@ class AdminController extends Controller {
 		$response = array();
 
 		if(!isset($_SESSION['admin_username'])){
-			header("Location: ".SERVER_BASE_URL_FULL.'admin');
+			header("Location: ".SERVER_BASE_URL_FULL.'?url=admin');
 			exit;
 		}
 
@@ -132,7 +132,7 @@ class AdminController extends Controller {
 		$this->render = 0;
 
 		if(!isset($_SESSION['admin_username'])){
-			header("Location: ".SERVER_BASE_URL_FULL.'admin');
+			header("Location: ".SERVER_BASE_URL_FULL.'?url=admin');
 			exit;
 		}
 
@@ -148,7 +148,7 @@ class AdminController extends Controller {
 		$response = array();
 
 		if(!isset($_SESSION['admin_username'])){
-			header("Location: ".SERVER_BASE_URL_FULL.'admin');
+			header("Location: ".SERVER_BASE_URL_FULL.'?url=admin');
 			exit;
 		}
 
@@ -381,7 +381,7 @@ class AdminController extends Controller {
 		unset($_SESSION['admin_name']);
 		unset($_SESSION['admin_id']);
 		
-		header("Location: ".SERVER_BASE_URL_FULL.'admin');
+		header("Location: ".SERVER_BASE_URL_FULL.'?url=admin');
 		exit;
 	}
 }

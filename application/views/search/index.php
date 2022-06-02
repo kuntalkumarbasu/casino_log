@@ -5,7 +5,7 @@
         <table width="100%">
                 
                 <tr>
-                    <td width="30%">Cashier Name : <?=$_SESSION['cashier_name']?><br><a className="submitbutton" href="<?=SERVER_BASE_URL_FULL?>index/logout">Logout</a></td>
+                    <td width="30%">Cashier Name : <?=$_SESSION['cashier_name']?><br><a className="submitbutton" href="<?=SERVER_BASE_URL_FULL?>?url=index/logout">Logout</a></td>
                     <td width="30%"><b><?=$business_name?></b></td>
                     <td width="40%"><img src="<?=IMG_UPLOAD?><?=$logo?>"></td>
                 </tr>
