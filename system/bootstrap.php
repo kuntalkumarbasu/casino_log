@@ -1,6 +1,6 @@
 <?php if (__FILE__ == $_SERVER['SCRIPT_FILENAME']) exit('No direct access allowed.');
 	
-	
+
 	require_once dirname(__DIR__) . '/config/global.php';
 	require_once dirname(__DIR__) . '/config/database.php';
 	require_once dirname(__DIR__) . '/system/common.php';
@@ -69,6 +69,7 @@
 		}
 		
 		$controllerName = ucfirst($controller).'Controller';
+
 		$dispatch = new $controllerName($controller,$action);
 		
 		if ((int)method_exists($controllerName, $action))

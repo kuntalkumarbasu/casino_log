@@ -5,7 +5,7 @@
           var IMG_UPLOAD = '<?=IMG_UPLOAD?>';
           
         </script>
-        <script src="<?=SITE_REACT_RES_URL?>/js/cashier.js?v=<?=date("YmdHis")?>cashier"></script>
+        <script src="<?=SITE_REACT_RES_URL?>js/cashier.js"></script>
 
     </body>
 </html>
