@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AE_Quote_Response BaseCurrency="CAD" Echo="@@@1W@@@" QuoteCurrency="CAD" QuoteID="6241843" TimeStamp="06/11/2019 11:07:39 AM" sess="072e64e3619a544db79982364332433ba1">
+    <Reference Days="2" Host="XBE31" Language="EN" ProcessTime="5.78">
+        <Pickup City="BOSTON" Country="US" DateTime="07/09/2019 10:00"/>
+        <Dropoff City="NEW YORK" Country="US" DateTime="07/11/2019 10:00"/>
+        <Rental Age="44" DOLocationType="A" LocationType="A" QType="R" TravelEast="" Vehicle="M***,E***,C***" VehicleClass="" temp="96516302" tm="06/11/2019 11:07:33 AM"/>
+        <Counts Loc="18" Prod="26"/>
+        <CURREX CURR="CAD" Exch2="1"/>
+        <CURREX CURR="USD" Exch2="0.735"/>
+    </Reference>
+    <IMAGEPATH v="www.globalmediaserver.com/images/cars/"/>
+    <LOCATIONS>
+        <LOC>
+            <OPERATOR FullName="ALAMO" v="ALM"/>
+            <IATACODE OnAirport="Y" v="JFK"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="1" v="0002078300"/>
+            <GEO gmtOffMinutes="-300" lat="40.657909" long="-73.806012"/>
+            <CITY Ctry="US" Name="NEW YORK" v="2"/>
+            <PUSTAT v=" "/>
+            <DOSTAT v="O"/>
+            <NAME ad1="JFK INTERNATIONAL AIRPORT" ad2="BUILDING 308 FEDERAL CIRCLE"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="ALAMO" v="ALM"/>
+            <IATACODE OnAirport="Y" v="BOS"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="1" v="0000028714"/>
+            <GEO gmtOffMinutes="-300" lat="42.366183" long="-71.027744"/>
+            <CITY Ctry="US" Name="BOSTON" v="1"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v=" "/>
+            <NAME ad1="BOSTON LOGAN INT'L AIRPORT" ad2="15 TRANSPORTATION WAY"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="AVIS" v="AVS"/>
+            <IATACODE OnAirport="Y" v="JFK"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="2" v="0000003385"/>
+            <GEO gmtOffMinutes="-300" lat="40.6584154" long="-73.808349"/>
+            <CITY Ctry="US" Name="NEW YORK" v="2"/>
+            <PUSTAT v=" "/>
+            <DOSTAT v="O"/>
+            <NAME ad1="JFK INTERNATIONAL AIRPORT" ad2="BUILDING #305, FEDERAL CIRCLE"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="AVIS" v="AVS"/>
+            <IATACODE OnAirport="Y" v="BOS"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="2" v="0000030257"/>
+            <GEO gmtOffMinutes="-300" lat="42.3631111" long="-71.013306"/>
+            <CITY Ctry="US" Name="BOSTON" v="1"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v=" "/>
+            <NAME ad1="LOGAN INT'L AIRPORT" ad2="15 TRANSPORTATION WAY"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="AVIS" v="AVSLV2"/>
+            <IATACODE OnAirport="Y" v="JFK"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="2" v="0001501800"/>
+            <GEO gmtOffMinutes="-300" lat="40.6584154" long="-73.808349"/>
+            <CITY Ctry="US" Name="NEW YORK" v="2"/>
+            <PUSTAT v=" "/>
+            <DOSTAT v="O"/>
+            <NAME ad1="JFK INTERNATIONAL AIRPORT" ad2="BUILDING #305, FEDERAL CIRCLE"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="AVIS" v="AVSLV2"/>
+            <IATACODE OnAirport="Y" v="BOS"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="2" v="0001503525"/>
+            <GEO gmtOffMinutes="-300" lat="42.3631111" long="-71.013306"/>
+            <CITY Ctry="US" Name="BOSTON" v="1"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v=" "/>
+            <NAME ad1="LOGAN INT'L AIRPORT" ad2="15 TRANSPORTATION WAY"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="BUDGET" v="BGT"/>
+            <IATACODE OnAirport="Y" v="JFK"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="5" v="0000061608"/>
+            <GEO gmtOffMinutes="-300" lat="40.644047" long="-73.782649"/>
+            <CITY Ctry="US" Name="NEW YORK" v="2"/>
+            <PUSTAT v=" "/>
+            <DOSTAT v="O"/>
+            <NAME ad1="NEW YORK JFK AIRPORT" ad2=""/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="BUDGET" v="BGT"/>
+            <IATACODE OnAirport="Y" v="BOS"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="5" v="0000061643"/>
+            <GEO gmtOffMinutes="-300" lat="42.360764" long="-71.018214"/>
+            <CITY Ctry="US" Name="BOSTON" v="1"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v=" "/>
+            <NAME ad1="BOSTON LOGAN INTERNATIONAL APT" ad2="15 TRANSPORTATION WAY"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="BUDGET" v="BGTLV"/>
+            <IATACODE OnAirport="Y" v="JFK"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="5" v="0001823125"/>
+            <GEO gmtOffMinutes="-300" lat="40.644047" long="-73.782649"/>
+            <CITY Ctry="US" Name="NEW YORK" v="2"/>
+            <PUSTAT v=" "/>
+            <DOSTAT v="O"/>
+            <NAME ad1="NEW YORK JFK AIRPORT" ad2=""/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="BUDGET" v="BGTLV"/>
+            <IATACODE OnAirport="Y" v="BOS"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="5" v="0001824150"/>
+            <GEO gmtOffMinutes="-300" lat="42.360764" long="-71.018214"/>
+            <CITY Ctry="US" Name="BOSTON" v="1"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v=" "/>
+            <NAME ad1="BOSTON LOGAN INTERNATIONAL APT" ad2="15 TRANSPORTATION WAY"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="DOLLAR" v="DLR"/>
+            <IATACODE OnAirport="Y" v="JFK"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="0" v="0000066997"/>
+            <GEO gmtOffMinutes="-300" lat="40.643828" long="-73.782315"/>
+            <CITY Ctry="US" Name="NEW YORK" v="2"/>
+            <PUSTAT v=" "/>
+            <DOSTAT v="O"/>
+            <NAME ad1="NEW YORK JFK AIRPORT" ad2="FEDERAL CIRCLE BLDG # 312"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="DOLLAR" v="DLR"/>
+            <IATACODE OnAirport="Y" v="BOS"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="0" v="0000031441"/>
+            <GEO gmtOffMinutes="-300" lat="42.36827" long="-71.030284"/>
+            <CITY Ctry="US" Name="BOSTON" v="1"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v=" "/>
+            <NAME ad1="BOSTON LOGAN INT'L AIRPORT" ad2="100 TOMAHAWK DRIVE"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="DOLLAR" v="DLRLV"/>
+            <IATACODE OnAirport="Y" v="JFK"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="0" v="0002626750"/>
+            <GEO gmtOffMinutes="-300" lat="40.643828" long="-73.782315"/>
+            <CITY Ctry="US" Name="NEW YORK" v="2"/>
+            <PUSTAT v=" "/>
+            <DOSTAT v="O"/>
+            <NAME ad1="NEW YORK JFK AIRPORT" ad2="FEDERAL CIRCLE BLDG # 312"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="DOLLAR" v="DLRLV"/>
+            <IATACODE OnAirport="Y" v="BOS"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="0" v="0002627050"/>
+            <GEO gmtOffMinutes="-300" lat="42.36827" long="-71.030284"/>
+            <CITY Ctry="US" Name="BOSTON" v="1"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v=" "/>
+            <NAME ad1="BOSTON LOGAN INT'L AIRPORT" ad2="100 TOMAHAWK DRIVE"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="HERTZ" v="RTZ"/>
+            <IATACODE OnAirport="Y" v="JFK"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="4" v="0000037799"/>
+            <GEO gmtOffMinutes="-300" lat="40.644178" long="-73.783894"/>
+            <CITY Ctry="US" Name="NEW YORK" v="2"/>
+            <PUSTAT v=" "/>
+            <DOSTAT v="O"/>
+            <NAME ad1="JFK INTERNATIONAL AIRPORT" ad2="BUILDING 318 FEDERAL CIRCLE"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="HERTZ" v="RTZ"/>
+            <IATACODE OnAirport="Y" v="BOS"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="4" v="0000038851"/>
+            <GEO gmtOffMinutes="-300" lat="42.368456" long="-71.030077"/>
+            <CITY Ctry="US" Name="BOSTON" v="1"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v=" "/>
+            <NAME ad1="BOSTON LOGAN INT'L AIRPORT" ad2="156 TOMAHAWK DRIVE, BLDG 42A"/>
+            <HRL>
+                <HRS>* OPEN  Monday-Sunday  05:00 AM-midnight</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="HERTZ" v="RTZWEB"/>
+            <IATACODE OnAirport="Y" v="JFK"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="4" v="0004441178"/>
+            <GEO gmtOffMinutes="-300" lat="40.644178" long="-73.783894"/>
+            <CITY Ctry="US" Name="NEW YORK" v="2"/>
+            <PUSTAT v=" "/>
+            <DOSTAT v="O"/>
+            <NAME ad1="JFK INTERNATIONAL AIRPORT" ad2="BUILDING 318 FEDERAL CIRCLE"/>
+            <HRL>
+                <HRS>* OPEN Monday-Sunday  all day</HRS>
+            </HRL>
+        </LOC>
+        <LOC>
+            <OPERATOR FullName="HERTZ" v="RTZWEB"/>
+            <IATACODE OnAirport="Y" v="BOS"/>
+            <LOCTYPE v="A"/>
+            <LOCID AEID="A" Group="4" v="0004441326"/>
+            <GEO gmtOffMinutes="-300" lat="42.368456" long="-71.030077"/>
+            <CITY Ctry="US" Name="BOSTON" v="1"/>
+            <PUSTAT v="O"/>
+            <DOSTAT v=" "/>
+            <NAME ad1="BOSTON LOGAN INT'L AIRPORT" ad2="156 TOMAHAWK DRIVE, BLDG 42A"/>
+            <HRL>
+                <HRS>* OPEN  Monday-Sunday  05:00 AM-midnight</HRS>
+            </HRL>
+        </LOC>
+    </LOCATIONS>
+    <PRODUCTS>
+        <ROW v="1">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDAR"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="134.69" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="99.00" vType="2"/>
+            <OPERATOR FullName="ALAMO" v="ALM"/>
+            <NAME>Nissan Versa</NAME>
+            <INAME>Nissan Versa</INAME>
+            <PASS v="5"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="4"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="323.35" Basic="323.35" BeforeSaleB="323.35" BeforeSaleI="NA" EstTotalB="458.04" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0000028714" LocalCurr="USD" LocalTotalDueB="99.00" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="99.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Airport Surcharge" IncludedInRate="true" Purpose="49" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="2">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDAR"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="AVIS" v="AVS"/>
+            <NAME>Ford Focus</NAME>
+            <INAME>Ford Focus</INAME>
+            <PASS v="4"/>
+            <LCAP v="14cuft"/>
+            <MPGCITY v="28"/>
+            <MPGHIGHWAY v="30"/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="231.80" Basic="231.80" BeforeSaleB="231.80" BeforeSaleI="NA" EstTotalB="231.80" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0000030257" LocalCurr="USD" LocalTotalDueB="0.00" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="16.09" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="8.54" CurrencyCode="USD" Description="Property Tax Reimbursement" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Motor Vehicle Rental Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="3">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDAR"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="BUDGET" v="BGT"/>
+            <NAME>Ford Focus</NAME>
+            <INAME>Ford Focus</INAME>
+            <PASS v="4"/>
+            <LCAP v="14cuft"/>
+            <MPGCITY v="28"/>
+            <MPGHIGHWAY v="30"/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="213.23" Basic="213.23" BeforeSaleB="213.23" BeforeSaleI="NA" EstTotalB="213.23" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0000061643" LocalCurr="USD" LocalTotalDueB="0.00" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="15.98" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="7.99" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="4">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDARRS"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="68.03" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="50.00" vType="2"/>
+            <OPERATOR FullName="HERTZ" v="RTZ"/>
+            <NAME>Nissan Versa</NAME>
+            <INAME>Nissan Versa</INAME>
+            <PASS v="5"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="4"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="20"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="412.83" Basic="412.83" BeforeSaleB="412.83" BeforeSaleI="NA" EstTotalB="483.66" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0000038851" LocalCurr="USD" LocalTotalDueB="52.06" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="50.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="2.06" CurrencyCode="USD" Description="Tourism Levy" IncludedInRate="false" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Transaction Fee" IncludedInRate="true" Purpose="98" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0.00" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="5">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDARRSZE"/>
+            <EXPLANATION v="Price includes applicable taxes. / No insurance excess"/>
+            <DROPFEE EstimatedInQCurrency="68.03" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="50.00" vType="2"/>
+            <OPERATOR FullName="DOLLAR" v="DLR"/>
+            <NAME>Nissan Versa</NAME>
+            <INAME>Nissan Versa</INAME>
+            <PASS v="5"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="4"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="NA" Basic="NA" BeforeSaleB="NA" BeforeSaleI="475.48" EstTotalB="NA" EstTotalI="646.45" IncDepReq="475.48" Inclusive="475.48" InsList="CDW:THP" LocID="0000031441" LocalCurr="USD" LocalTotalDueB="NA" LocalTotalDueI="125.66" SaleB="N" SaleI="Y" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="50.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="33.00" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="false" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="10" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="false" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0.6" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="false" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="10.63" CurrencyCode="USD" Description="Rental Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="12.00" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="false" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="1.49" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="false" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="18.57" CurrencyCode="" Description="State Surcharge" IncludedInRate="false" Purpose="63" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="6">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDARRSZE"/>
+            <EXPLANATION v="Price includes applicable taxes. / No insurance excess"/>
+            <DROPFEE EstimatedInQCurrency="68.03" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="50.00" vType="2"/>
+            <OPERATOR FullName="HERTZ" v="RTZ"/>
+            <NAME>Nissan Versa</NAME>
+            <INAME>Nissan Versa</INAME>
+            <PASS v="5"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="4"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="20"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="NA" Basic="NA" BeforeSaleB="NA" BeforeSaleI="444.84" EstTotalB="NA" EstTotalI="515.67" IncDepReq="444.84" Inclusive="444.84" InsList="CDW:THP" LocID="0000038851" LocalCurr="USD" LocalTotalDueB="NA" LocalTotalDueI="52.06" SaleB="N" SaleI="Y" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="50.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="2.06" CurrencyCode="USD" Description="Tourism Levy" IncludedInRate="false" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Transaction Fee" IncludedInRate="true" Purpose="98" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0.00" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="7">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDARX1"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="AVIS" v="AVSLV2"/>
+            <NAME>Ford Focus</NAME>
+            <INAME>Ford Focus</INAME>
+            <PASS v="4"/>
+            <LCAP v="14cuft"/>
+            <MPGCITY v="28"/>
+            <MPGHIGHWAY v="30"/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="302.50" Basic="302.50" BeforeSaleB="302.50" BeforeSaleI="NA" EstTotalB="302.50" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0001503525" LocalCurr="USD" LocalTotalDueB="0.00" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Property Tax Reimbursement" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Motor Vehicle Rental Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="8">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDARX1"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="BUDGET" v="BGTLV"/>
+            <NAME>Ford Focus</NAME>
+            <INAME>Ford Focus</INAME>
+            <PASS v="4"/>
+            <LCAP v="14cuft"/>
+            <MPGCITY v="28"/>
+            <MPGHIGHWAY v="30"/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="311.57" Basic="311.57" BeforeSaleB="311.57" BeforeSaleI="NA" EstTotalB="311.57" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0001824150" LocalCurr="USD" LocalTotalDueB="0.00" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Car Rental Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="23.36" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Contract Fee" IncludedInRate="true" Purpose="29" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Premium Location Surcharge" IncludedInRate="true" Purpose="67" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Rail Station Surcharge" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="State Surcharge" IncludedInRate="true" Purpose="63" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Transportation and Facilty Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="9">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDARX1RS"/>
+            <EXPLANATION v="Price includes applicable taxes. / "/>
+            <DROPFEE EstimatedInQCurrency="68.03" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="50.00" vType="2"/>
+            <OPERATOR FullName="HERTZ" v="RTZWEB"/>
+            <NAME>Nissan Versa</NAME>
+            <INAME>Nissan Versa</INAME>
+            <PASS v="5"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="4"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="20"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="336.12" Basic="336.12" BeforeSaleB="336.12" BeforeSaleI="NA" EstTotalB="406.95" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0004441326" LocalCurr="USD" LocalTotalDueB="52.06" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="50.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="2.06" CurrencyCode="USD" Description="Tourism Levy" IncludedInRate="false" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Transaction Fee" IncludedInRate="true" Purpose="98" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0.00" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="10">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDARX2"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="68.03" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="50.00" vType="2"/>
+            <OPERATOR FullName="DOLLAR" v="DLR"/>
+            <NAME>Nissan Versa</NAME>
+            <INAME>Nissan Versa</INAME>
+            <PASS v="5"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="4"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="399.38" Basic="399.38" BeforeSaleB="399.38" BeforeSaleI="NA" EstTotalB="559.11" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0000031441" LocalCurr="USD" LocalTotalDueB="117.40" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="50.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="27.72" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="false" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="10" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="false" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0.6" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="false" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="10.63" CurrencyCode="USD" Description="Rental Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="12.00" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="false" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="1.49" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="false" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="15.59" CurrencyCode="" Description="State Surcharge" IncludedInRate="false" Purpose="63" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="11">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDARZE"/>
+            <EXPLANATION v="Price includes applicable taxes.No insurance excess"/>
+            <DROPFEE EstimatedInQCurrency="134.69" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="99.00" vType="2"/>
+            <OPERATOR FullName="ALAMO" v="ALM"/>
+            <NAME>Nissan Versa</NAME>
+            <INAME>Nissan Versa</INAME>
+            <PASS v="5"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="4"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="NA" Basic="NA" BeforeSaleB="NA" BeforeSaleI="419.39" EstTotalB="NA" EstTotalI="554.08" IncDepReq="419.39" Inclusive="419.39" InsList="CDW:THP" LocID="0000028714" LocalCurr="USD" LocalTotalDueB="NA" LocalTotalDueI="99.00" SaleB="N" SaleI="Y" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="99.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Airport Surcharge" IncludedInRate="true" Purpose="49" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="12">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDARZE"/>
+            <EXPLANATION v="Price includes applicable taxes.No insurance excess"/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="AVIS" v="AVS"/>
+            <NAME>Ford Focus</NAME>
+            <INAME>Ford Focus</INAME>
+            <PASS v="4"/>
+            <LCAP v="14cuft"/>
+            <MPGCITY v="28"/>
+            <MPGHIGHWAY v="30"/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="NA" Basic="NA" BeforeSaleB="NA" BeforeSaleI="200.42" EstTotalB="NA" EstTotalI="200.42" IncDepReq="200.42" Inclusive="200.42" InsList="CDW:THP" LocID="0000030257" LocalCurr="USD" LocalTotalDueB="NA" LocalTotalDueI="0.00" SaleB="N" SaleI="Y" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="13.91" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="7.39" CurrencyCode="USD" Description="Property Tax Reimbursement" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Motor Vehicle Rental Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="13">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="CDARZE"/>
+            <EXPLANATION v="Price includes applicable taxes.No insurance excess"/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="BUDGET" v="BGT"/>
+            <NAME>Ford Focus</NAME>
+            <INAME>Ford Focus</INAME>
+            <PASS v="4"/>
+            <LCAP v="14cuft"/>
+            <MPGCITY v="28"/>
+            <MPGHIGHWAY v="30"/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="NA" Basic="NA" BeforeSaleB="NA" BeforeSaleI="194.02" EstTotalB="NA" EstTotalI="194.02" IncDepReq="194.02" Inclusive="194.02" InsList="CDW:THP" LocID="0000061643" LocalCurr="USD" LocalTotalDueB="NA" LocalTotalDueI="0.00" SaleB="N" SaleI="Y" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="14.54" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="7.27" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="14">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="ECAR"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="134.69" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="99.00" vType="2"/>
+            <OPERATOR FullName="ALAMO" v="ALM"/>
+            <NAME>Mitsubishi Mirage</NAME>
+            <INAME>Mitsubishi Mirage</INAME>
+            <PASS v="4"/>
+            <LCAP v="12cuft"/>
+            <MPGCITY v="28"/>
+            <MPGHIGHWAY v="30"/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="320.14" Basic="320.14" BeforeSaleB="320.14" BeforeSaleI="NA" EstTotalB="454.84" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0000028714" LocalCurr="USD" LocalTotalDueB="99.00" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="99.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Airport Surcharge" IncludedInRate="true" Purpose="49" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="15">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="ECARRS"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="68.03" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="50.00" vType="2"/>
+            <OPERATOR FullName="HERTZ" v="RTZ"/>
+            <NAME>Ford Fiesta</NAME>
+            <INAME>Ford Fiesta</INAME>
+            <PASS v="4"/>
+            <LCAP v="9cuft"/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="20"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="357.70" Basic="357.70" BeforeSaleB="357.70" BeforeSaleI="NA" EstTotalB="428.53" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0000038851" LocalCurr="USD" LocalTotalDueB="52.06" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="50.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="2.06" CurrencyCode="USD" Description="Tourism Levy" IncludedInRate="false" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Transaction Fee" IncludedInRate="true" Purpose="98" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0.00" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="16">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="ECARRSZE"/>
+            <EXPLANATION v="Price includes applicable taxes. / No insurance excess"/>
+            <DROPFEE EstimatedInQCurrency="68.03" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="50.00" vType="2"/>
+            <OPERATOR FullName="DOLLAR" v="DLR"/>
+            <NAME>Ford Fiesta</NAME>
+            <INAME>Ford Fiesta</INAME>
+            <PASS v="4"/>
+            <LCAP v="9cuft"/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="NA" Basic="NA" BeforeSaleB="NA" BeforeSaleI="341.08" EstTotalB="NA" EstTotalI="492.21" IncDepReq="341.08" Inclusive="341.08" InsList="CDW:THP" LocID="0000031441" LocalCurr="USD" LocalTotalDueB="NA" LocalTotalDueI="111.08" SaleB="N" SaleI="Y" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="50.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="23.67" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="false" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="10" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="false" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0.6" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="false" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="10.63" CurrencyCode="USD" Description="Rental Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="12.00" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="false" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="1.49" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="false" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="13.32" CurrencyCode="" Description="State Surcharge" IncludedInRate="false" Purpose="63" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="17">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="ECARRSZE"/>
+            <EXPLANATION v="Price includes applicable taxes. / No insurance excess"/>
+            <DROPFEE EstimatedInQCurrency="68.03" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="50.00" vType="2"/>
+            <OPERATOR FullName="HERTZ" v="RTZ"/>
+            <NAME>Ford Fiesta</NAME>
+            <INAME>Ford Fiesta</INAME>
+            <PASS v="4"/>
+            <LCAP v="9cuft"/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="20"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="NA" Basic="NA" BeforeSaleB="NA" BeforeSaleI="389.71" EstTotalB="NA" EstTotalI="460.54" IncDepReq="389.71" Inclusive="389.71" InsList="CDW:THP" LocID="0000038851" LocalCurr="USD" LocalTotalDueB="NA" LocalTotalDueI="52.06" SaleB="N" SaleI="Y" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="50.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="2.06" CurrencyCode="USD" Description="Tourism Levy" IncludedInRate="false" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Transaction Fee" IncludedInRate="true" Purpose="98" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0.00" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="18">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="ECARX1RS"/>
+            <EXPLANATION v="Price includes applicable taxes. / "/>
+            <DROPFEE EstimatedInQCurrency="68.03" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="50.00" vType="2"/>
+            <OPERATOR FullName="HERTZ" v="RTZWEB"/>
+            <NAME>Fiat 500</NAME>
+            <INAME>Fiat 500</INAME>
+            <PASS v="4"/>
+            <LCAP v=""/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="20"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="332.79" Basic="332.79" BeforeSaleB="332.79" BeforeSaleI="NA" EstTotalB="403.62" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0004441326" LocalCurr="USD" LocalTotalDueB="52.06" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="50.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="2.06" CurrencyCode="USD" Description="Tourism Levy" IncludedInRate="false" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Transaction Fee" IncludedInRate="true" Purpose="98" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0.00" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="19">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="ECARX2"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="68.03" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="50.00" vType="2"/>
+            <OPERATOR FullName="DOLLAR" v="DLR"/>
+            <NAME>Ford Fiesta</NAME>
+            <INAME>Ford Fiesta</INAME>
+            <PASS v="4"/>
+            <LCAP v="9cuft"/>
+            <MPGCITY v=""/>
+            <MPGHIGHWAY v=""/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="341.08" Basic="341.08" BeforeSaleB="341.08" BeforeSaleI="NA" EstTotalB="492.21" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0000031441" LocalCurr="USD" LocalTotalDueB="111.08" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="50.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="23.67" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="false" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="10" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="false" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0.6" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="false" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="10.63" CurrencyCode="USD" Description="Rental Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="12.00" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="false" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="1.49" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="false" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="13.32" CurrencyCode="" Description="State Surcharge" IncludedInRate="false" Purpose="63" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="20">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="ECARZE"/>
+            <EXPLANATION v="Price includes applicable taxes.No insurance excess"/>
+            <DROPFEE EstimatedInQCurrency="134.69" IncludedInRate="N" Prepaid="N" TaxInclusive="N" dfCurr="USD" v="99.00" vType="2"/>
+            <OPERATOR FullName="ALAMO" v="ALM"/>
+            <NAME>Mitsubishi Mirage</NAME>
+            <INAME>Mitsubishi Mirage</INAME>
+            <PASS v="4"/>
+            <LCAP v="12cuft"/>
+            <MPGCITY v="28"/>
+            <MPGHIGHWAY v="30"/>
+            <DRS v="2"/>
+            <SMLR/>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="NA" Basic="NA" BeforeSaleB="NA" BeforeSaleI="416.19" EstTotalB="NA" EstTotalI="550.89" IncDepReq="416.19" Inclusive="416.19" InsList="CDW:THP" LocID="0000028714" LocalCurr="USD" LocalTotalDueB="NA" LocalTotalDueI="99.00" SaleB="N" SaleI="Y" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="99.00" CurrencyCode="USD" Description="Drop Fee" IncludedInRate="false" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Airport Surcharge" IncludedInRate="true" Purpose="49" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="21">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="EDAR"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="AVIS" v="AVS"/>
+            <NAME>Ford Fiesta</NAME>
+            <INAME>Ford Fiesta</INAME>
+            <PASS v="4"/>
+            <LCAP v="9cuft"/>
+            <MPGCITY v="36"/>
+            <MPGHIGHWAY v="46"/>
+            <DRS v="4"/>
+            <SMLR>Ford Aspire</SMLR>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="231.80" Basic="231.80" BeforeSaleB="231.80" BeforeSaleI="NA" EstTotalB="231.80" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0000030257" LocalCurr="USD" LocalTotalDueB="0.00" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="16.09" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="8.54" CurrencyCode="USD" Description="Property Tax Reimbursement" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Motor Vehicle Rental Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="22">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="EDAR"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="BUDGET" v="BGT"/>
+            <NAME>Ford Fiesta</NAME>
+            <INAME>Ford Fiesta</INAME>
+            <PASS v="4"/>
+            <LCAP v="9cuft"/>
+            <MPGCITY v="36"/>
+            <MPGHIGHWAY v="46"/>
+            <DRS v="4"/>
+            <SMLR>Ford Aspire</SMLR>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="213.23" Basic="213.23" BeforeSaleB="213.23" BeforeSaleI="NA" EstTotalB="213.23" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0000061643" LocalCurr="USD" LocalTotalDueB="0.00" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="15.98" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="7.99" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="23">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="EDARX1"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="AVIS" v="AVSLV2"/>
+            <NAME>Ford Fiesta</NAME>
+            <INAME>Ford Fiesta</INAME>
+            <PASS v="4"/>
+            <LCAP v="9cuft"/>
+            <MPGCITY v="36"/>
+            <MPGHIGHWAY v="46"/>
+            <DRS v="4"/>
+            <SMLR>Ford Aspire</SMLR>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="292.58" Basic="292.58" BeforeSaleB="292.58" BeforeSaleI="NA" EstTotalB="292.58" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0001503525" LocalCurr="USD" LocalTotalDueB="0.00" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Property Tax Reimbursement" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Motor Vehicle Rental Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="24">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="EDARX1"/>
+            <EXPLANATION v="Price includes applicable taxes."/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="BUDGET" v="BGTLV"/>
+            <NAME>Ford Fiesta</NAME>
+            <INAME>Ford Fiesta</INAME>
+            <PASS v="4"/>
+            <LCAP v="9cuft"/>
+            <MPGCITY v="36"/>
+            <MPGHIGHWAY v="46"/>
+            <DRS v="4"/>
+            <SMLR>Ford Aspire</SMLR>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="301.32" Basic="301.32" BeforeSaleB="301.32" BeforeSaleI="NA" EstTotalB="301.32" EstTotalI="NA" IncDepReq="NA" Inclusive="NA" InsList="" LocID="0001824150" LocalCurr="USD" LocalTotalDueB="0.00" LocalTotalDueI="NA" SaleB="Y" SaleI="N" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Car Rental Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="22.59" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Contract Fee" IncludedInRate="true" Purpose="29" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Premium Location Surcharge" IncludedInRate="true" Purpose="67" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Rail Station Surcharge" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="State Surcharge" IncludedInRate="true" Purpose="63" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Transportation and Facilty Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="25">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="EDARZE"/>
+            <EXPLANATION v="Price includes applicable taxes.No insurance excess"/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="AVIS" v="AVS"/>
+            <NAME>Ford Fiesta</NAME>
+            <INAME>Ford Fiesta</INAME>
+            <PASS v="4"/>
+            <LCAP v="9cuft"/>
+            <MPGCITY v="36"/>
+            <MPGHIGHWAY v="46"/>
+            <DRS v="4"/>
+            <SMLR>Ford Aspire</SMLR>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="NA" Basic="NA" BeforeSaleB="NA" BeforeSaleI="200.42" EstTotalB="NA" EstTotalI="200.42" IncDepReq="200.42" Inclusive="200.42" InsList="CDW:THP" LocID="0000030257" LocalCurr="USD" LocalTotalDueB="NA" LocalTotalDueI="0.00" SaleB="N" SaleI="Y" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="13.91" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="7.39" CurrencyCode="USD" Description="Property Tax Reimbursement" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Motor Vehicle Rental Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+        <ROW v="26">
+            <PROD Live="Y" PmtReq="Y" ProdType="CAR"/>
+            <SIPP codes="" v="EDARZE"/>
+            <EXPLANATION v="Price includes applicable taxes.No insurance excess"/>
+            <DROPFEE EstimatedInQCurrency="0.00" IncludedInRate="Y" Prepaid="Y" TaxInclusive="N" dfCurr="CAD" v="0.00" vType="2"/>
+            <OPERATOR FullName="BUDGET" v="BGT"/>
+            <NAME>Ford Fiesta</NAME>
+            <INAME>Ford Fiesta</INAME>
+            <PASS v="4"/>
+            <LCAP v="9cuft"/>
+            <MPGCITY v="36"/>
+            <MPGHIGHWAY v="46"/>
+            <DRS v="4"/>
+            <SMLR>Ford Aspire</SMLR>
+            <PPD v="f"/>
+            <TAX part1="0" part2="0.0" v="0"/>
+            <MNAGE v="21"/>
+            <MXAGE v="85"/>
+            <LOCS>
+                <LOC BasDepReq="NA" Basic="NA" BeforeSaleB="NA" BeforeSaleI="194.02" EstTotalB="NA" EstTotalI="194.02" IncDepReq="194.02" Inclusive="194.02" InsList="CDW:THP" LocID="0000061643" LocalCurr="USD" LocalTotalDueB="NA" LocalTotalDueI="0.00" SaleB="N" SaleI="Y" Stat="R" UPGRADE="">
+                    <VehAvail>
+                        <VehAvailCore>
+                            <Fees>
+                                <Fee Amount="0.00" CurrencyCode="CAD" Description="Drop Fee" IncludedInRate="true" Purpose="2" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="14.54" CurrencyCode="USD" Description="Concession Fee" IncludedInRate="true" Purpose="70" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Convention Center Surcharge" IncludedInRate="true" Purpose="5" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Customer Facility Charge" IncludedInRate="true" Purpose="71" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Energy Recovery Fee" IncludedInRate="true" Purpose="6" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="0" CurrencyCode="USD" Description="Parking Tax" IncludedInRate="true" Purpose="7" RequiredInd="true" TaxInclusive="false"/>
+                                <Fee Amount="7.27" CurrencyCode="USD" Description="Vehicle License Fee" IncludedInRate="true" Purpose="33" RequiredInd="true" TaxInclusive="false"/>
+                            </Fees>
+                        </VehAvailCore>
+                    </VehAvail>
+                </LOC>
+            </LOCS>
+        </ROW>
+    </PRODUCTS>
+</AE_Quote_Response>
