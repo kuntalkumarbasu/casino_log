@@ -13,7 +13,7 @@ class IndexController extends Controller {
 	function index() {
 
 		if(isset($_SESSION['username'])){
-			header("Location: ".SERVER_BASE_URL_FULL.'?url=index/search');
+			header("Location: ".SERVER_BASE_URL_FULL.'?url=search/index');
 			exit;
 		}
 			
